@@ -1,0 +1,12 @@
+clc;
+clear;
+base=get_absolute_file_path();
+exec(base+"utils.sci",-1);
+exec(base+"bai1.sce",-1);
+exec(base+"bai2.sce",-1);
+exec(base+"bai3.sce",-1);
+exec(base+"bai4.sce",-1);
+exec(base+"bai5.sce",-1);
+exec(base+"bai6.sce",-1);
+exec(base+"bai_bo_sung.sce",-1);
+mprintf("\nDone. Tat ca kiem tra da qua.\n");

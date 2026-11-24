@@ -1,1 +1,3 @@
-# DSP_lab5
+# DSP Lab 5
+
+Code thí nghiệm Lab 5 môn Xử lý tín hiệu số (Scilab).
