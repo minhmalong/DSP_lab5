@@ -9,4 +9,4 @@ exec(base+"bai4.sce",-1);
 exec(base+"bai5.sce",-1);
 exec(base+"bai6.sce",-1);
 exec(base+"bai_bo_sung.sce",-1);
-mprintf("\nDone. Tat ca kiem tra da qua.\n");
+
